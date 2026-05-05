@@ -1,0 +1,11 @@
+﻿step,prompt_tokens,completion_tokens,total_tokens
+GraphRAG: Who founded OpenAI?,885,38,923
+FlatRAG: Who founded OpenAI?,197,32,229
+GraphRAG: Who founded DeepMind?,485,19,504
+FlatRAG: Who founded DeepMind?,258,20,278
+GraphRAG: Who founded Anthropic?,477,23,500
+FlatRAG: Who founded Anthropic?,242,15,257
+GraphRAG: Who founded Mistral AI?,898,33,931
+FlatRAG: Who founded Mistral AI?,256,17,273
+GraphRAG: Who founded xAI?,672,44,716
+FlatRAG: Who founded xAI?,183,14,197
